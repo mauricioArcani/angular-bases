@@ -9,7 +9,6 @@ import { HeroesModule } from '../heroes/heroes.module';
   ],
   exports: [
     CounterComponent,
-    HeroesModule,
   ]
 })
 export class CounterModule {}
